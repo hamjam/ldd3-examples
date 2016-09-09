@@ -1,1 +1,0 @@
-cmd_/home/hamed/Desktop/projects/ldd3-examples-3.x/scull/scull.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hamed/Desktop/projects/ldd3-examples-3.x/scull/scull.ko /home/hamed/Desktop/projects/ldd3-examples-3.x/scull/scull.o /home/hamed/Desktop/projects/ldd3-examples-3.x/scull/scull.mod.o

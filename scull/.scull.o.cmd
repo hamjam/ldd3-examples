@@ -1,1 +1,0 @@
-cmd_/home/hamed/Desktop/projects/ldd3-examples-3.x/scull/scull.o := ld -m elf_x86_64   -r -o /home/hamed/Desktop/projects/ldd3-examples-3.x/scull/scull.o /home/hamed/Desktop/projects/ldd3-examples-3.x/scull/main.o /home/hamed/Desktop/projects/ldd3-examples-3.x/scull/pipe.o /home/hamed/Desktop/projects/ldd3-examples-3.x/scull/access.o 
